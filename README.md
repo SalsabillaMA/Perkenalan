@@ -13,4 +13,4 @@ IG : @salsaa.sya
 
 maaf pak fotonya cm itu yang kelihatan muka:)
 
-![Alt Text](Salsabilla Maurettasya A.jpg)
+![Alt Text](Salsabilla%20Maurettasya%20A.jpg)
